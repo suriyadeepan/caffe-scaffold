@@ -54,6 +54,7 @@ Net is the holistic unit of a Caffe Model. It performs composition of functions,
 ```c++
 Caffe::mode( )
 Caffe::set_mode( )
+```
 
 ### Net::Init( )
 
