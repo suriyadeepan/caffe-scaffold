@@ -4,14 +4,14 @@ A scaffold for learning Caffe : Convolutional Architecture for Fast Feature Embe
 
 ## Reading List
 
-- [ ] [Caffe Official Tutorials](http://caffe.berkeleyvision.org/tutorial/)
+- [x] [Caffe Official Tutorials](http://caffe.berkeleyvision.org/tutorial/)
 	- [x] Anatomy of Caffe
 	- [x] Forward and Backward Passes
 	- [x] Loss
 	- [x] Solver
-	- [ ] Layer Catalogue
-	- [ ] Interfaces
-	- [ ] Data
+	- [x] Layer Catalogue
+	- [x] Interfaces
+	- [x] Data
 - [x] [Caffe Web Demo] (http://caffe.berkeleyvision.org/gathered/examples/web_demo.html)
 - [x] [MNIST tutorial](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)
 
